@@ -30,7 +30,7 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.2'
 
     implementation "com.google.android.gms:play-services-ads:12.0.1"
-    implementation('co.adison:adison-sdk:0.0.1-beta@aar') {
+    implementation('co.adison:adison-sdk:0.0.2-alpha@aar') {
         transitive = true
     }
 
